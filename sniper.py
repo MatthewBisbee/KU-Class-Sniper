@@ -26,8 +26,8 @@ LOG_PATH = "seatwatch.log"
 STATE_PATH = "seatwatch_state.json"
 
 # Pushover (My keys are redacted, insert your own from Pushover app if adapting for yourself)
-PUSHOVER_USER_KEY = "uiehhnfmzvehxcqvrn8ki6x39xg4cr"
-PUSHOVER_APP_TOKEN = "azefnj86mxb1gsiamnktsqhhffoz47"
+PUSHOVER_USER_KEY = "..."
+PUSHOVER_APP_TOKEN = "..."
 ENABLE_PUSHOVER = True
 
 # This POST body is from your captured XHR
