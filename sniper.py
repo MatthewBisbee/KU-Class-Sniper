@@ -8,12 +8,12 @@ import urllib.error
 import http.client
 from datetime import datetime
 
+#This version was made around the last specific section I needed
+#To snipe your course seat, change values accordingly and use your own Pushover (iOS app) keys
 #Script development assisted by OpenAI's ChatGPT 5.1
 
 # CONFIG
 SEARCH_URL = "https://classes.ku.edu/Classes/CourseSearch.action"
-
-# Target: EECS 212 Monday lab row (class number)
 CLASS_NUMBER = "40525"
 COURSE_LABEL = "EECS 212 Monday lab"
 
